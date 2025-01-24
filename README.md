@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 Simulation Engineer
-    💻 System programming languages • DevOps 
+    💻 System programming languages
     📖 Software architecture 
     🎮 Music • Games • Anime • Code • Art
 </pre>
