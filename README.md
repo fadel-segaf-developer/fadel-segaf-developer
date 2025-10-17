@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🜏 Fadel — Simulation & Game Tech Engineer
+# 🜏 Fadel — Simulation Software Engineer
 
 **Building high-fidelity simulators** • **Unreal/Unity** • **Traffic/AI Systems** • **IG/CIGI Pipelines**  
 Crafting tools that make complex worlds behave.
