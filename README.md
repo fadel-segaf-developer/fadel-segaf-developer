@@ -16,8 +16,6 @@ Crafting tools that make complex worlds behave.
 - **Flight/Ship handling** pipelines (modular) and **external IG** integration (CIGI/UDP).
 - **Content & tooling** for fast iteration: debugging overlays, asset ingest, and reproducible builds.
 
-> *Bias for clarity, deterministic behavior, and performance over vibes.*
-
 ---
 
 ## Highlights
