@@ -36,27 +36,20 @@ Crafting tools that make complex worlds behave.
 
 ---
 
-## Selected work (add your media later)
-> Drop short GIFs/PNGs in `/media` and update the image links.
+## Selected work
 
 **FDS — Driving Simulator (Unity, motion-enhanced)**  
 Jakarta city w/ **Monas** landmark, seat/vertical motion feedback, steering/pedal IO, custom ignition.  
-![FDS teaser](./media/fds_teaser.gif)
 
 **AVPT/BVPT — Pilot Trainers (Unreal)**  
 Modular flight profiles, multi-screen IG, scoring integration, future LVC hooks.  
-![AVPT teaser](./media/avpt_teaser.png)
 
-**TMS Plugin (Unreal)**  
+**TMS Plugin (Unreal Engine 5)**  
 Auto lane graphs, debug-draw, AI behaviors, scoring bridges.  
-![TMS lanes](./media/tms_lanes.png)
 
 ---
 
-## Quick stats
-> Swap `fadel-segaf-developer` below.
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fadel-segaf-developer&show_icons=true&hide_title=true&count_private=true" height="135" />
+## Most used language
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadel-segaf-developer&layout=compact" height="135" />
 
 ---
