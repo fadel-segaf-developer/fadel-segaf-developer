@@ -22,7 +22,7 @@ Crafting tools that make complex worlds behave.
 - 🧠 **AI Traffic**: Polite vs. aggressive behaviors, lane-change logic, spawn/despawn, red-light compliance.  
 - 🧭 **Pipelines**: Unity ↔ Unreal experiments, IG servers, and data bridges into scoring subsystems.  
 - 🛠️ **Tooling**: One-click debug views (splines/lanes), auto-junction connectors, fast bake scripts.  
-- 🌊 **Domains**: Driving sims, flight trainers, ship handling experiments.
+- 🌊 **Domains**: Simulators: Driving, flight trainers, ship handling.
 
 ---
 
