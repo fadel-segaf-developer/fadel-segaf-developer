@@ -5,7 +5,7 @@
 **Building high-fidelity simulators** • **Unreal/Unity** • **Traffic/AI Systems** • **IG/CIGI Pipelines**  
 Crafting tools that make complex worlds behave.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/fadel-achmad-assegaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadel-achmad-assegaf)
 
 </div>
 
@@ -62,22 +62,34 @@ Auto lane graphs, debug-draw, AI behaviors, scoring bridges.
 ---
 
 <details>
-<summary><b>Roadmap shards</b> (click)</summary>
-
-- **M0**: Auto-junction connectors · lane cleanup · debug-draw lanes  
-- **M1**: AI behaviors (overtake, merge, gap acceptance) · traffic lights FSM  
-- **M2**: Scoring plugin bridge · FGEAR dependencies isolation · config UI  
-- **M3**: LVC hooks · External IG stress tests · Replay/Telemetry export
-
-</details>
-
 <details>
 <summary><b>How I work</b> (click)</summary>
 
-- Issue-first, small PRs, video notes for tricky diffs.  
-- Build scripts > manual steps. Deterministic seeds for physics/AI sims.  
-- Write docs that actually help: one page, runnable examples, failure modes.
+- **Think before code.** I assess the size of every task first — if the architecture isn’t built yet, I design it.  
+  Scalability, modularity, and clarity always come first. Professional architecture means others can extend it without pain.  
 
+- **Debug by narrowing, not panicking.** Bugs are normal; I isolate piece by piece until the culprit shows.  
+  If it’s messy, I’ll use AI — it’s a partner, not a crutch. When it gets stuck, we collaborate and push through.  
+
+- **Commit philosophy.** I prefer *polished drops* over tiny commits. Incremental when needed, but commits should represent a state of completion, not noise.  
+
+- **Documentation as infrastructure.** I built a **Topology Visualizer** to map high-to-low-level connections — every module, class, and dependency.  
+  Documentation isn’t just for others; it’s a mirror of the architecture itself. Doxygen + AI + topology visualization = living system docs.  
+
+- **Architecture rules.** Modular, scalable, plug-and-play. No hard dependencies.  
+  Naming doesn’t matter as much as *clarity*. Comments do.  
+  Detailed comments feed Doxygen, AI assistants, and future devs.  
+
+- **Tool-driven debugging.** When in doubt: clean the `Binaries`, `Intermediate`, and `Saved` folders, regenerate `.sln`, rebuild fresh.  
+  There’s even a `.bat` for it — efficiency over ritual.  
+
+- **Team philosophy.** Everyone here’s trying to do something exceptional.  
+  “Professional” means we care about architecture, readability, and growth.  
+  If you build to *expand* and not just *finish*, that’s a green flag.  
+
+- **Definition of done.** Merged to main. Tested. Working. No ambiguity.  
+
+> **Quote:** “Measure the architecture, understand the topology — *then* start the development.”
 </details>
 
 ---
